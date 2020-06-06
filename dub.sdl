@@ -1,0 +1,9 @@
+name "aledsz-bot"
+description "Twtich CLI bot for aleDsz"
+authors "Alexandre de Souza"
+copyright "Copyright © 2020, Alexandre de Souza"
+license "MIT"
+dependency "twitchapid" version="~>0.4.1"
+sourcePaths "./src/"
+mainSourceFile "./src/main.d"
+
